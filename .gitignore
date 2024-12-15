@@ -1,0 +1,21 @@
+# Ignore system files
+AppData/
+*.log
+NTUSER.DAT*
+*.ini
+
+# Ignore editor configurations
+.vscode/
+.idea/
+
+# Ignore cache and config files
+.cache/
+.config/
+.ssh/
+
+# Ignore OS directories
+Desktop/
+Downloads/
+Music/
+Pictures/
+Videos/
