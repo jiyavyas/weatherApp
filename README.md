@@ -24,7 +24,7 @@ The Weather App is a simple, user-friendly application that provides weather for
 1. Clone the repository using:
    ```bash
    git clone <repository-url>
-##DEMO
+## DEMO
 ![Screenshot 2025-01-03 163312](https://github.com/user-attachments/assets/85e62a8d-c41d-45bb-b698-a47983f1ecb8)
    
    
